@@ -1,4 +1,4 @@
-# More Traits - Community Fork
+# More Traits - Community Fork V1
 
 ## About
 
