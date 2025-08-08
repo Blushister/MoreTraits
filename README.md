@@ -25,7 +25,6 @@ Code Cleanup (Removing dead  code, improving performance)
 ## Status
 
 🔧 **In Development** - We're currently fixing bugs and cleaning up the code  
-📦 **Workshop Release** - Coming soon once we're confident in the stability
 
 ## Credits
 
