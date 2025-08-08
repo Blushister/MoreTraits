@@ -9,14 +9,13 @@ This is a **community fork** of the popular More Traits mod for Project Zomboid.
 
 ## What's Different
 
-This fork focuses on:
-- **Bug fixes** (Made of Glass sleep damage, synchronization issues)
-- **Code cleanup** (removing dead code, improving performance)
-- **Community contributions** (applying fixes suggested by players)
+Code Cleanup (Removing dead  code, improving performance)
+
+### Bug fixing
+1. **Made of Glass** - Fixing sleeping damage 
+2. **GymGoer fix** - Correction the fonction for calculate multi source exp
 
 ## Installation
-
-**Steam Workshop**: Coming soon™  
 
 **Manual Installation**:
 1. Download this repository
